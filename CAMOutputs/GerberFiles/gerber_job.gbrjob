@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2018-10-23T03:58:54Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "BusinessCardPCB"
+        },
+        "Owner": "Stephen Murphy <stephen@murphy.technology>",
+        "Size": {
+            "X": 66.04,
+            "Y": 26.67
+        }
+    }
+}
